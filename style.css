@@ -1,0 +1,61 @@
+.container{
+    color: black;
+}
+.card-body{
+    color: black;
+}
+.verdana{
+    color: black;
+}
+h4{
+    color: black;
+}
+.carousel-item{
+    color: white;
+}
+header {
+    background-image: image-set(images/3.jpg);
+}
+section img{
+    padding-top: 1rem;
+}
+svg{
+    padding: 0%;
+}
+li{
+    text-align: center;
+    
+}
+.footer{
+    padding-inline-end: 1px;
+    color: white;
+    display:list-item;
+    justify-content: space-between;
+    align-items: space-between;
+    font-size: 3em;
+    position: fixed;
+    bottom: 20px;
+    left: 2px;
+    width: 65px;
+    height: 60%;    
+}
+video{
+    position: fixed;
+    right:0%;
+    bottom:0%;
+    min-width:  100%;
+    min-height: 100%;
+
+}
+div{
+    background-color: ;
+    color: white;
+    text-align: center;
+    font-family: verdana;
+}
+button{
+    background-color: black;
+    color:white ;
+    font-family: verdana;
+    position:;
+}
